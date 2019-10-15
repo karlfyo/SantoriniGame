@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Santorini Multi-Player</title>
+    <style></style>
+</head>
+    
+<body>
+<div id="div00" class="module">
+    <form class="content" action="/database.php">
+    <div id="div01" class="container">
+        <h2>Log-in</h2>
+        <hr>
+        <p>Welcome to our Santorini implementation!</p>
+        <label for="user"><b>Username:</b></label><br>
+        <input type="text" placeholder="Enter Username" name="user" required>
+        <br>
+        <label for="pass"><b>Password: </b></label><br>
+        <input type="text" placeholder="Enter Password" name="pass" required>
+        <div id="div02" class="buttons">
+            <button type="submit" class="loginBtn">Log in</button>
+        </div>
+        <p>New user? <a href="#">Sign up!</a></p>
+
+</div>   
+</form>    
+</div>
+    
+</body>
+<style>
+    .container{
+        margin: 5px;
+        padding: 10px;
+    }
+    p, h2, label{
+        color: darkslategray;
+        text-align: center;
+    }
+    button{
+        margin: 5px;
+        padding: 5px;
+    }
+    body{
+        background-color: cornflowerblue;
+    }
+    .content{
+        background-color: lightgreen;
+        margin: 10% auto 20% auto;
+        border: 2px dashed brown;
+        width: 30%;
+    }
+    hr{
+        border: 1px dotted brown;
+        margin: 10px;
+    }
+</style>
+</html>
