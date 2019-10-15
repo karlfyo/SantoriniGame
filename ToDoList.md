@@ -3,25 +3,21 @@
 - [ ] Start writing Project report
 - [X] Use Git hub
 - [ ] Make accounts for Heroku, PostgresDB
-
+- [ ] Break down all the main tasks for Server, Client and game into more to dos
 - [ ] Learn how to use Express(), SQL for Postgres
 
 #**To Dos for C-grade**:
 - [ ] Client and Server must authenticate connection!
-  ##**Game**:
+  \##**Game**:
   - [ ] Implement simple Santorini turn-based game:
     //break down into steps:
     - [ ] Theme-based
-  ##**Server**:
+  \##**Server**:
   - [ ] Server API for Create / Delete / Update Games
-    //break down into steps:
   - [ ] Server API for Create / Delete / Update/ Authenticate user accounts
-    //break down into steps:
   - [ ] Server API for listing games  (private/public)
-    //break down into steps:
   - [ ] Server API for text chat connected to game session.
-    //break down into steps:
-  ##**Client**:
+  \##**Client**:
   - [ ] Client that can create / authenticate / delete users
   - [ ] Client that can play a distributed game of Santorini.
   - [ ] Client that allows for text chat when playing.
