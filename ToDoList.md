@@ -15,6 +15,9 @@
 
 <br>#**Server**:
   - [ ] Server API for Create / Delete / Update Games
+    - [ ] runnable game instance
+    - [ ] reach game instance through endpoints (5hrs)
+    
   - [ ] Server API for Create / Delete / Update/ Authenticate user accounts
   - [ ] Server API for listing games  (private/public)
   - [ ] Server API for text chat connected to game session.
