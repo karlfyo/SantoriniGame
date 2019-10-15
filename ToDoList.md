@@ -10,7 +10,6 @@
 - [ ] Client and Server must authenticate connection!
   <br>##**Game**:
   - [ ] Implement simple Santorini turn-based game:
-    //break down into steps:
     - [ ] Theme-based
   <br>##**Server**:
   - [ ] Server API for Create / Delete / Update Games
