@@ -1,6 +1,6 @@
 ##**To Dos for starting out**:
 - [ ] Plan out agile dev
-- [ ] Start writing Project report
+- [X] Start writing Project report
 - [X] Use Git hub
 - [ ] Make accounts for Heroku, PostgresDB
 - [ ] Break down all the main tasks for Server, Client and game into more to dos
