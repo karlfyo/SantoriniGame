@@ -8,15 +8,18 @@
 
 #**To Dos for C-grade**:
 - [ ] Client and Server must authenticate connection!
-  <br>##**Game**:
+
+<br>##**Game**:
   - [ ] Implement simple Santorini turn-based game:
     - [ ] Theme-based
-  <br>##**Server**:
+
+<br>##**Server**:
   - [ ] Server API for Create / Delete / Update Games
   - [ ] Server API for Create / Delete / Update/ Authenticate user accounts
   - [ ] Server API for listing games  (private/public)
   - [ ] Server API for text chat connected to game session.
-  <br>##**Client**:
+  
+<br>##**Client**:
   - [ ] Client that can create / authenticate / delete users
   - [ ] Client that can play a distributed game of Santorini.
   - [ ] Client that allows for text chat when playing.
