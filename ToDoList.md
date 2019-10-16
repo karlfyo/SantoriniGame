@@ -1,5 +1,5 @@
-https://trello.com/b/jbycM24c/santorini-project <br>
-<a href src="http://note.ly/#" link="_blank">http://note.ly/#<a><br>
+<a href src="https://trello.com/b/jbycM24c/santorini-project" target="_blank">https://trello.com/b/jbycM24c/santorini-project<a><br>
+<a href src="http://note.ly/#" target="_blank">http://note.ly/#<a><br>
 
 ##**To Dos for starting out**:
 - [ ] Plan out agile dev
