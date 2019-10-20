@@ -17,6 +17,7 @@ app.post('/', function(req, res){
 
     let txt = `Welcome user, your username is: ${req.body.name}\n, your encrypted password is: ${req.body.pass}`
     res.status(200).send(txt);
+    //this is bad, but it's just testing and we will change it later :)
 });
 
 app.listen(app.get('port'), function(){
